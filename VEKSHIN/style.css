@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Russo+One&display=swap');
+
+body {
+	background-color: #F5F5F5;
+	font-size: 16px;
+	font-weight: normal;
+	font-family: 'Russo One', sans-serif;
+}
+.avatar {
+	border-radius: 120px;
+	box-shadow: 1px 1px 14px #000000;
+
+}
+.info {
+	color: #808080;
+	letter-spacing: 5px;
+	
+
+}
+
+.social {
+	background: #A52A2A;
+	border: 1px solid black;
+	padding: 4px 20px;
+	box-shadow: 1px 1px 14px;
+
+}
+.cont {
+	max-width: 750px;
+
+}
+
+.hobbi {
+	background: #A52A2A;
+	border: 1px solid black;
+	padding: 1px 20px;
+	box-shadow: 1px 1px 14px;
+
+}
+
+.white {
+	color: white;
+}
+
+.opisanie {
+	color: #808080;
+	padding: 1px 40px;
+
+}
